@@ -1,5 +1,5 @@
 
-[GradienButton](https://replit.com/@prettygenius/GradientButton) is a colorful button implementation using HTML and CSS. It showcases how to style a button with a gradient border, hover effects, and custom color scheme.
+[GradientButton](https://replit.com/@prettygenius/GradientButton) is a colorful button implementation using HTML and CSS. It showcases how to style a button with a gradient border, hover effects, and custom color scheme.
 
 ## Features
 
