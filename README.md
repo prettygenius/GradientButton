@@ -3,7 +3,7 @@
 
 #GradientButton 
 
-##Is a colorful button implementation using HTML and CSS. It showcases how to style a button with a gradient border, hover effects, and custom color scheme.
+Is a colorful button implementation using HTML and CSS. It showcases how to style a button with a gradient border, hover effects, and custom color scheme.
 
 
 [Check It Out](https://replit.com/@prettygenius/GradientButton) 
